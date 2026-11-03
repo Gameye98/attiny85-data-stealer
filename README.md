@@ -55,7 +55,7 @@ https://github.com/tokyoneon/B2E/blob/master/Bat_To_Exe_Converter.zip
 - usb cable  
 - arduino ide on your pc  
 
-### credit
+## credit
 Author: Gameye98  
 Date: Tue Nov 3 12:08:18 AM 2026  
 Team: BlackHole Security, [Schadenfreude](https://t.me/schdenfreude)  
