@@ -45,7 +45,7 @@ https://github.com/tokyoneon/B2E/blob/master/Bat_To_Exe_Converter.zip
 - The /s.exe inside main.ino originally is my attiny85-netsh-profiles.bat which then got converted to .exe and then getting named "s.exe" as for a way to solve the issues with the attiny85 memory  
 - After youre done hosting the file and then replace the url inside main.ino with your own  
 - If youre in a windows, move attiny-netsh-profiles folder to your desktop and then open main.ino file inside which will automatically open in Arduino IDE and then you can start compiling the .ino file  
-- After its done compiling, click upload code... chech the message log you can see a notice appear in the log that told you to connect the attiny85 microcontroller with your pc/laptop via usb cable  
+- After its done compiling, click upload code... check the message log you can see a notice appear in the log that told you to connect the attiny85 microcontroller with your pc/laptop via usb cable  
 - Congrats, youre successfully make a simple, portable and flexible data stealer <3 :) ...  
 
 ## requirements
